@@ -1,0 +1,1 @@
+This repository contains two exercises where I applied key statistical concepts through practical Python tasks. Using NumPy and Pandas, I explored data manipulation, descriptive statistics, and core analytical techniques to strengthen my foundation in data analysis.
